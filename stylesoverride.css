@@ -1,0 +1,102 @@
+
+#mainNav .color{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#fce0f8;
+}
+.bgimg{ 
+    background-image:url('../Images\ folder/wallpaper back drop home page.jpeg');
+}
+
+.bgimg2{
+    background-image: url('../Images\ folder/greenflowers.jpeg');
+}
+
+.bgcolor{
+    color:rgb(41, 24, 4);
+    background-color: #fce0f8;
+    opacity: 90%;
+}
+
+a:hover{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.imgsize{
+margin-top: 50px;
+}
+
+.resume{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
+}
+
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#mainNav.li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.ranking{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.top{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    display: block;
+   text-align: center;
+   background-color: white;
+}
+
+.natalieimg{
+display:block;
+margin-left: auto;
+margin-right: auto;
+width: 53%;
+height: 53%;
+}
+
+.video{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.fixheader{
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+        text-transform: uppercase;
+        line-height: 1;
+        font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+
+.textcolor{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+nav.active{
+    background-color:tan !important;
+}
+
+footer.active{
+    background-color: tan;
+}
+
